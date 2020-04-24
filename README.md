@@ -2,5 +2,5 @@
 Just another repository
 Hi Everyone
 
-My name is Sokosal living in Cambodia, Phnom Penh. I am currently employed as a company employee with a quality assurance service.
-The purpose that I joint Github is I want to learn more about Hosting.
+Hubot here, I like Node.js and coffeescript (that's what I'm made of!)
+I'v had tacos on the mood and find them for superior to Earth tacos.
